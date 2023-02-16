@@ -1,0 +1,32 @@
+/* Color Name */
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+/* Hexadecimal */
+h2 {
+    color:#121212
+} 
+
+
+/* Hexadecimal Shorthand */
+h3 {
+    color: #f90
+}
+
+h4 {
+    color: #0000ffcc
+}
+
+h5 {
+    color: #00fc
+}
+
+h6 {
+    color:rgb(0,255,75)
+}
+
+p {
+    color: rgba(1, 161, 147)
+}
